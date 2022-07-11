@@ -1,6 +1,7 @@
 
 # Proyecto de citas para clínica veterinaria
 Este proyecto se ha hecho como parte de un curso, para el uso e interiorización de los hooks **useEffect** y **useState**
+- [Desplegado con Netlify 👈👈👈](https://fabulous-longma-6e401a.netlify.app/)
 
 ## Retos y funcionalidades a tener en cuenta
 - Uso únicamente de useState y useEffect para el proyecto
