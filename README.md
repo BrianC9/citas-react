@@ -8,6 +8,7 @@ Este proyecto se ha hecho como parte de un curso, para el uso e interiorización
 - Creación de un sistema CRUD para gestionar pacientes 
 - Uso del LocalStorage para el almacenamiento en el cliente
 - Estilos con Vite y configuración para la minimización de código
+- Diseño responsive
 
 ## Referencias
  - Curso de React
